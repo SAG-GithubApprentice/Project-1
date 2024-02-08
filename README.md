@@ -74,8 +74,6 @@ Sergio Garzon
 
 Chris Alvarez
 
-Reece Onyeani
-
 Todd Snyder
 
 ## License
