@@ -7,9 +7,12 @@ This Jupyter notebook offers a comprehensive analysis of financial markets, spec
 ## Built With
 
 Visual Studio Code - The source code editor used for development.
+
 GitHub Copilot - AI assistant that helps in writing better code.
+
 ChatGPT - AI model for generating documentation and guidance.
-Installation Instructions
+
+# Installation Instructions
 
 ## Prerequisites
 Python 3.6 or higher
