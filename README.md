@@ -82,6 +82,6 @@ Todd Snyder
 
 This project is not licensed and is available for educational and non-commercial use only.
 
-This README file now includes comprehensive details about the project, including the build tools, contributing entity, authors, and license status. If there's anything else you'd like to add or modify, please let me know!
+
 
 
