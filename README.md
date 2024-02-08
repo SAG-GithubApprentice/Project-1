@@ -22,17 +22,23 @@ Libraries
 ## The following Python libraries are required:
 
 pandas: for data manipulation and analysis.
+
 hvplot: for creating interactive plots.
+
 prophet: for time series forecasting.
+
 yfinance: for downloading historical market data.
 
 ## Installation
 To install the required libraries, run the following command in your terminal:
 
 bash
+
 Copy code
+
 pip install pandas hvplot prophet yfinance
-Usage
+
+#Usage
 
 Step 1: Fetch Historical Data
 Use yfinance to download historical data for the S&P 500 index (^GSPC), WTI crude oil (CL=F), and spot gold (GC=F).
@@ -51,7 +57,9 @@ Employ the Prophet library to forecast future market prices. Adjust the model pa
 The notebook includes several examples demonstrating each step of the analysis:
 
 Fetching Data: Code snippets show how to use yfinance to fetch historical price data.
+
 Visualization: Interactive plots of the S&P 500, WTI crude oil, and spot gold prices are created using hvplot, showcasing significant market trends over the last five years.
+
 Forecasting Results: The Prophet library is used to forecast future prices, with visualizations of the forecasted trends. A summary of the forecasting results is provided, discussing potential market directions.
 
 ## Contributing
@@ -63,8 +71,11 @@ edX Boot Camps LLC - Educational partner providing guidance and resources.
 ## Authors
 
 Sergio Garzon
+
 Chris Alvarez
+
 Reece Onyeani
+
 Todd Snyder
 
 ## License
