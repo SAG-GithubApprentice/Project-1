@@ -73,7 +73,7 @@ Documentation files:
 "P1_schedule.docx"
 
 
-<img width="304" alt="Screenshot 2024-02-12 at 7 18 48 PM" src="https://github.com/SAG-GithubApprentice/Project-1/assets/151570128/e83f7be5-534c-4d2c-b852-9aa58d873923">
+![image](https://github.com/SAG-GithubApprentice/Project-1/assets/151570128/c7b4d7a3-0e97-4365-a6c2-868df297ea60)
 
 
 
