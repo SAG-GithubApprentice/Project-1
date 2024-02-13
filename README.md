@@ -62,6 +62,12 @@ Visualization: Interactive plots of the S&P 500, WTI crude oil, and spot gold pr
 
 Forecasting Results: The Prophet library is used to forecast future prices, with visualizations of the forecasted trends. A summary of the forecasting results is provided, discussing potential market directions.
 
+## Directory
+The primary and final code file is "MAIN_CODE_FINAL.ipynb"
+
+![image](https://github.com/SAG-GithubApprentice/Project-1/assets/151570128/c3c1a079-5d04-4c03-bb98-33b5bda0b437)
+
+
 ## Contributing
 
 This project benefits from the contributions of:
