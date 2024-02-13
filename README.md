@@ -64,8 +64,10 @@ Forecasting Results: The Prophet library is used to forecast future prices, with
 
 ## Directory
 The primary and final code file is "MAIN_CODE_FINAL.ipynb"
+Slide presentation is "Project-1 Slides.pdf"
 
-![image](https://github.com/SAG-GithubApprentice/Project-1/assets/151570128/c3c1a079-5d04-4c03-bb98-33b5bda0b437)
+<img width="304" alt="Screenshot 2024-02-12 at 7 18 48 PM" src="https://github.com/SAG-GithubApprentice/Project-1/assets/151570128/e83f7be5-534c-4d2c-b852-9aa58d873923">
+
 
 
 ## Contributing
