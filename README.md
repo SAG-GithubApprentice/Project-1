@@ -69,7 +69,9 @@ Primary and final code file is "MAIN_CODE_FINAL.ipynb"
 Slide presentation is "Project 1 Slides.pdf"
 
 Documentation files:
+
 "P1-proposal_summary.docx"
+
 "P1_schedule.docx"
 
 
